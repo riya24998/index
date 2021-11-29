@@ -1,0 +1,96 @@
+/* X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) { 
+	body{
+		
+			
+	}
+
+ }
+
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width:1199.98px) {
+	body{
+			
+	}
+
+		
+}
+
+/*Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+	body{
+		
+	}
+	.header-contact.mt-3{
+		display: none;
+	}
+	.title-section h4{
+		font-size:25px;
+	}
+	p{
+		font-size: 20px;
+	}
+}
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+	body{
+			
+	}
+	
+	
+
+
+ }
+
+
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 	
+	body{
+		
+   
+ 	}
+	.top-header{
+		height: 0;
+	}
+	.owl-carousel .owl-item img{
+		height: 60vh;
+	}
+	.slider-contain h1{
+		font-size: 45px;
+	}
+	.hero-text h2{
+		font-size: 80px;
+	}
+	.hero-text h3{
+		font-size: 45px;
+	}
+	.hero-text h4{
+		font-size: 15px;
+	}
+	.icon-nav{
+		display: none;
+	}
+	.card img{
+		padding: 10px;
+	}
+	.tab-title{
+		text-align: center;
+	}
+	.footer-social ul li{
+		padding-right: 0;
+	}
+	.footer-title{
+		margin-bottom: 0px;
+	}
+ }
+
+
+
+
+
+
+
+
+

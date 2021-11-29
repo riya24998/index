@@ -1,0 +1,268 @@
+/* X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) { 
+	body{
+		
+			
+	}
+
+ }
+
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width:1199.98px) {
+	body{
+			
+	}
+	.section-title{
+		margin-bottom: 50px;
+		margin-left: 15px;
+		
+	}
+		
+}
+
+/*Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+	body{
+		
+	}
+	.section{
+		padding: 50px 0;
+	}
+	.hero-text{
+		margin: 30px;
+		margin-top: 10rem;
+	}
+	.hero-text h2{
+		line-height: 25px;
+		font-size: 40px;
+	}
+	.hero-text p{
+		font-size: 20px;
+	}
+	.hero-btn{
+		margin-right: 20px;
+		margin-bottom: 30px;
+	}
+	.slider-thumb img {
+		
+		min-height: 400px;
+		width: 400px;
+		
+		
+	}
+	.single-service h2{
+		font-size: 30px;
+	}
+	.single-service p{
+		font-size: 20px;
+	}
+	.section-title{
+		margin-bottom: 50px;
+		margin-left: 15px;
+	}
+	.section-title h2{
+		font-size: 40px;
+	}
+	.section-title h3{
+		font-size: 30px;
+	}
+	.section-title p{
+		font-size: 20px;
+	}
+	.about-app img{
+		min-height: 600px;
+	}
+	.contact-box-area{
+		padding-right: 70px;
+		padding-left: 70px;
+		margin-top: -25%;
+		position: unset;
+		
+	}
+	.getIn-tuchBox{
+		margin-top: 30px;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.getIn-tuchBox h4{
+		font-size: 35px;
+	}
+	.getIn-tuchBox p i.fas{
+		font-size: 25px;
+	}
+	.getIn-tuchBox p{
+		padding-left: 40px;
+	}
+	
+	.single-work h2{
+		font-size: 25px;
+
+	}
+	.single-work p{
+		font-size: 20px;
+	}
+	.feature h3{
+		font-size: 25px;
+	}
+	.feature p{
+		font-size: 17px;
+	}
+	.counter-section img{
+		min-height: 450px;
+	}
+	.app-download-title{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.input-group .btn{
+		min-height: 55px;
+	}
+	.subscribe-content{
+		padding-top: 15px;
+	}
+	
+}
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+	body{
+			
+	}
+	
+	button.navbar-toggler {
+		position: absolute;
+		right: 0;
+		top: 20px;
+		margin-left: auto;
+		/* left: auto; */
+		text-align: right;
+	}
+	.counter-section img.img-fluid {
+		height: 100%;
+		width: 100%;
+		object-fit: cover;
+		min-height: 500px;
+	}
+	.download-btn{
+		margin-bottom: 15px;
+	}
+
+
+ }
+
+
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 	
+	body{
+		
+		
+ 	}
+	
+	 .banner-text{
+		 transform: translateY(0);
+		 top: 0;
+	 }
+	 .hero-text{
+		 padding: 15px;
+		 margin-top: 100px;
+		 margin-left: 0;
+		 margin-right: 0;
+		
+	 }
+	 .hero-text h2{
+		 font-size: 22px;
+	 }
+	 .hero-text p{
+		font-size: 15px;
+	}
+	.slider-thumb img{
+		margin-top: 0;
+	}
+	.single-service h2{
+		font-size: 20px;
+	}
+	.single-service P{
+		font-size: 14px;
+	}
+	 .section{
+		padding: 50px 0;
+	 }
+	 .section-title{
+		 margin-bottom: 30px;
+		 text-align: left;
+	 }
+	 .section-title h3{
+		 font-size: 20px;
+	 }
+	 .section-title p{
+		 font-size: 14px;
+	 }
+	 .single-counter{
+		 margin-bottom: 10px;
+	 }
+	 .about-app{
+		 padding-top: 50px;
+	 }
+	 .about-app img{
+		 min-height: 350px;
+	 }
+	 .single-work{
+		 text-align: center;
+	 }
+	 .single-work h2{
+		 font-size: 20px;
+	 }
+	 .single-work p{
+		 font-size: 14px;
+	 }
+	 .feature{
+		 text-align: center;
+		 margin-bottom: 37px;
+	 }
+	 .getIn-tuchBox{
+		margin-left:0;
+	 }
+	 .single-pricing{
+		 padding-top: 15px;
+	 }
+	 .input-group .btn{
+		 min-height: 55px;
+	 }
+	 .contact-box-area{
+		 padding-right: 0px;
+		 position: unset;
+	 }
+	 .footer-text{
+		 text-align: center;
+		 margin-top: 25px;
+		 margin-bottom: 20px;
+	 }
+	 .footer-menu{
+		 text-align: center;
+		 margin-top: 15px;
+		 margin-bottom: 25px;
+	 }
+	 .single-team{
+		 margin-top: 40px;
+	 }
+	 .contact-box-area{
+		 padding-left: 0;
+	 }
+	 .contact-box input[type="text"], input[type="email"], input[type="phone"], input[type="submit"], textarea{
+		 padding: 0;
+	 }
+	
+	 
+
+	 
+ }
+
+
+
+
+
+
+
+
+
